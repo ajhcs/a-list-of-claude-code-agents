@@ -38,6 +38,9 @@ A _slightly_ similar repository 😉 to the present one with a growing list of a
 [`Claude Code Subagents Collection`](https://github.com/wshobson/agents?tab=re) by [Seth Hobson](https://github.com/wshobson).
 A pretty impressive resource with _dozens_ of awesome-looking agents that I haven't even had time to explore yet, but clearly this gentleman has put a lot of work into this feature that's been out for one freaking day at the time of writing!
 
+[`healthcare-agents`](https://github.com/ajhcs/healthcare-agents) by [AJHCS](https://github.com/ajhcs)
+51 specialized healthcare administration agents for Claude Code with MHA-level expertise across 10 divisions (revenue cycle, compliance, quality, clinical ops, payer relations, health IT, and more). Each agent carries real regulatory citations (CFR, CMS), operational templates, and domain-specific decision frameworks for healthcare admin workflows.
+
 ## Contributing
 
 See notice at top - I'm happy to share any resources that are not obviously malicious - so feel free to just submit a PR against the README and make sure it fits the format. This repo is "passively" maintained, let's say, which is why I've "relinquished" the "awesome"-title to someone who has the capacity for active maintainance.
